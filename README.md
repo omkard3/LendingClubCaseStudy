@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> The case study analyses a dataset of loans to investigate the factors linked to loan status. The dataset contains information such as loan amount, interest rate, loan term, annual income, debt-to-income ratio, employment length, home ownership, loan purpose, and other features. The main objective is to recognize trends and patterns that could impact whether a loan is fully paid, charged off, or currently active..
 
 
 ## Table of Contents
