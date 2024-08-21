@@ -11,7 +11,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- This project analyses loan data to assist lenders in making better decisions. We have examined factors such as loan amounts, interest rates, and borrower details to uncover patterns that can mitigate the risk of loan defaults.
+This project analyses loan data to assist lenders in making better decisions. We have examined factors such as loan amounts, interest rates, and borrower details to uncover patterns that can mitigate the risk of loan defaults.
 
 ### Background
 Lenders encounter challenges in approving loans that will be entirely repaid. This analysis offers insights into improving loan approval processes by focusing on the factors that contribute to successful loan repayments.
