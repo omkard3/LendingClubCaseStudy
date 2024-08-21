@@ -6,43 +6,43 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This project analyses loan data to assist lenders in making better decisions. We have examined factors such as loan amounts, interest rates, and borrower details to uncover patterns that can mitigate the risk of loan defaults.
 
+### Background
+Lenders encounter challenges in approving loans that will be entirely repaid. This analysis offers insights into improving loan approval processes by focusing on the factors that contribute to successful loan repayments.
+
+### Business Problem
+The main challenge is to reduce the number of defaulted loans. By identifying key trends in the data, lenders can more accurately predict which loans are likely to be repaid.
+
+### Dataset
+- **Loan Amounts:** Ranging from $500 to $35,000.
+- **Interest Rates:** Ranging from 5.42% to 24.59%.
+- **Loan Statuses:** Include Fully Paid, Charged Off, and Current.
+- **Other Features:** Employment length, home ownership, loan purpose, etc.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- **Conclusion 1:** Higher interest rates often lead to higher default rates.
+- **Conclusion 2:** Borrowers with longer employment histories are more reliable.
+- **Conclusion 3:** Homeowners, especially those with mortgages, are better at repaying loans.
+- **Conclusion 4:** Shorter loan terms are more likely to be fully repaid.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- **Pandas** - version 1.3.3
+- **Matplotlib** - version 3.4.3
+- **NumPy** - version 1.21.2
+- **Jupyter Notebook** - version 6.4.3
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@omkard3] - feel free to contact me!
 
 
 <!-- Optional -->
