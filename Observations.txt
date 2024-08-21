@@ -1,0 +1,45 @@
+Attachment: Page 6.png
+
+--> Are we representing mean in the diagram? Correct me, if I am wrong, the mean value is shown by dotted lines in the box plot,
+    or is there any other reason?
+    I am asking this because we are mentioning mean in the text but not displaying it on the diagram.
+
+
+Page 7.png
+
+--> Here also under observations, in the first point, we have mentioned the average but the average is not shown in the diagram.
+
+
+Page_9.png
+
+--> Here also, we are mentioning the mean under Observations but not plotting it.    
+
+Page 10.png
+
+--> Just a twist of words, I guess, what you have written is also fine.
+
+Under Observations, in the last line: Is it ok to mention that as loan grades decrease from A to G,
+the ratio of the count of "Charged Off" Loans generally increases with respect to the "Fully paid"
+Loans. 
+
+
+Page_11.png
+
+
+--> Here also the mean is not shown by a dottedf line in the diagram.
+--> Under Observations, the second line you have mentioned: The 25th percentile debt-to-income ratio for 
+"Charged Off" loans is lower than that for "Current" and "Fully Paid" loans. 
+    Please correct me if I am wrong but isn't the 25th percentile for "Fully Paid" loans is lower than "Charged Off" loans.
+
+Page_12.png
+
+--> Can the chart provided be coded to increase readability, with the X-axis being either in descending or ascending order?
+
+
+Page_15.png
+
+In the the third statement, should owners be mentioned or renters?
+
+ 
+
+
