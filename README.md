@@ -42,7 +42,7 @@ The main challenge is to reduce the number of defaulted loans. By identifying ke
 - **Jupyter Notebook** - version 6.4.3
 
 ## Contact
-Created by [@omkard3] - feel free to contact me!
+Created by [@omkard3] and [@Nikunj-Sanghi]- feel free to contact me!
 
 
 <!-- Optional -->
